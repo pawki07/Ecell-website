@@ -35,9 +35,9 @@
 html {
   scroll-behavior: smooth;
 }
-a { 
-    color: #ffd500;
-}
+/* a { 
+     color: #ffd500;
+} */
 .tagline-description{
   line-height: 1.7em;
   font-size:1.2em;
@@ -48,9 +48,9 @@ a {
   padding-left:5%;
 }
 .site-logo{
-  width:53px;
+  width:50px;
   /* height:14%; */
-  /* margin-top: 0%; */
+
 }
 .footer-logo{
   width:40%;
@@ -240,7 +240,7 @@ textarea {
 }
 
 .form-control:focus {
-    border-color: #ffd500;
+    border-color: #0ecff1;
     box-shadow: none;
 }
 
@@ -789,7 +789,7 @@ html, body {
   height: 100%;
   margin: 0;
   padding: 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif !important;
 }
 
 /* Background colors */
@@ -992,7 +992,7 @@ blockquote {
 /* Navigation */
 .navbar-nav.navbar-right {
   margin-right: 0;
-  font-size:1.7em;
+  font-size:1.5em !important;
   
 }
 
@@ -1001,7 +1001,7 @@ blockquote {
   line-height: 30px;
   padding: 0 5px ;
   margin:  0 7px;
-  font-weight: lighter;
+  /* font-weight: lighter; */
   color: #fff;
 }
 
@@ -1172,6 +1172,7 @@ blockquote {
 
 .site-section-small {
   padding: 90px 40px;
+  /* background: url(backmain.jpg); */
 }
 
 .section-title {
