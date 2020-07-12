@@ -815,8 +815,8 @@ html, body {
 
 /* Hover backgrounds socials */
 a.twitter-bg:hover {
-  background-color: #55acee;
-  border-color: #55acee; 
+  background-color: #FF0000;
+  border-color: #FF0000; 
 }
 
 a.facebook-bg:hover{
