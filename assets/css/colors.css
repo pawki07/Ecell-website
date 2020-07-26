@@ -301,7 +301,7 @@ a.white-text:hover {
 .slicknav_nav li.active > a,
 .slicknav_nav .dropdown.active > a a,
 .slicknav_nav .active .active a {
-  color: rgb(175, 158, 233);  
+  color: #1369ce;  
 }
 
 .slicknav_nav > li > a .slicknav_arrow {
